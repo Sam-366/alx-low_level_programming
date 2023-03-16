@@ -3,8 +3,8 @@
 /**
  *  main - this is the entry point of a c program
  *
- *  Return: ends the execution of a function and is always zero
-
+ *  Return: ends the execution of a function
+ */
 
 int (main)void
 {
