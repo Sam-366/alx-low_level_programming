@@ -1,13 +1,13 @@
 #include <stdio.h>
 
 /**
- *  main - this is the entry point of a c program
+ *  main - Entry point
  *
- *  Return: ends the execution of a function
+ *  Return: Always 0
  */
 
-int (main); void
-'{'
-	puts'('"\"Programming is like building a multilingual puzzle);
+int (main)void
+{
+	puts("\"Programming is like building a multilingual puzzle");
 	return (0);
 }
