@@ -4,6 +4,7 @@
  * print_alphabet_x10 - function prints 10x alphabets
  *
  * Return: Always 0
+ *
  */
 
 void print_alphabet_x10(void);
