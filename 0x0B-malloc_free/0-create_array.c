@@ -3,10 +3,10 @@
 #include <stdlib.h>
 
 /**
- * create_array -function to create an array
+ * create_array - function to create an array
  * @size: array size
  * @c: char
- * Return: NULL is fail, otherwise pointer to array
+ * Return: NULL is failure, otherwise pointer to array
  */
 
 char *create_array(unsigned int size, char c)
