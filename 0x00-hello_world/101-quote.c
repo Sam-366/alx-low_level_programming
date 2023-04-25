@@ -4,7 +4,7 @@
 /**
 * main - Entry point to a programme
 *
-* Return: Always 
+* Return: Always
 */
 int main(void)
 {
